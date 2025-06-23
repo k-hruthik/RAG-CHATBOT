@@ -1,7 +1,7 @@
 # RAG chatbot powered by 🔗 Langchain, OpenAI, Google Generative AI and Hugging Face 🤗
 
 <div align="center">
-  <img src="https://github.com/AlaGrine/RAG_chatabot_with_Langchain/blob/main/data/docs/RAG_architecture.png" alt="RAG Architecture Diagram">
+  <img src="https://github.com/k-hruthik/RAG-CHATBOT/blob/main/data/docs/RAG_architecture.png" alt="RAG Architecture Diagram">
   <figcaption>Architecture of Retrieval-Augmented Generation (RAG) system using LangChain.</figcaption>
 </div>
 
